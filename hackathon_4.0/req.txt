@@ -1,0 +1,16 @@
+unstructured==0.12.0
+pdf2image==1.17.0
+pdfminer.six
+pillow-heif==0.15.0
+unstructured_pytesseract
+unstructured_inference
+pikepdf
+pypdf
+langchain_google_genai
+langchain
+langchain_experimental
+chromadb
+tiktoken
+open_clip_torch
+torch
+streamlit
